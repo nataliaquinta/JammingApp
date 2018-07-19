@@ -1,4 +1,4 @@
-const clientId = '5507a0748df84bbdaa236b41819107eb';
+const clientId = 'xxxxxx'; 
 const redirectUri = 'http://ja-jammming.surge.sh/';
 let accessToken;
 
